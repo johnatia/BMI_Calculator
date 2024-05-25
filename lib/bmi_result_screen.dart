@@ -5,7 +5,7 @@ class BmiResultScreen extends StatelessWidget {
   final int result;
   final int age;
   final bool isMale;
-  const BmiResultScreen({
+  BmiResultScreen({
     required this.result,
     required this.age,
     required this.isMale,
